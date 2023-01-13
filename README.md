@@ -8,3 +8,12 @@ Simple platform game written in python using the pygame library. Choose a level,
 
 The player has the controls to move left, right, up and down . 
 Each level is designed based upon the difficulty .
+
+
+Resources
+
+Resources file contains all the images and the sounds added in the game.
+
+Levels
+
+Levels file has the different available levels from which the user can choose from. 
