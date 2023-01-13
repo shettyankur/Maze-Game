@@ -1,5 +1,5 @@
 # Hospital-Management
-Python Miniproject
+Python Miniproject(2nd sem)
 
 
 Mazegame
