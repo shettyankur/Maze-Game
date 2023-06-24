@@ -1,4 +1,4 @@
-# Hospital-Management
+# Maze Game
 Python Miniproject (2nd sem)
 
 
